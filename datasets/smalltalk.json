@@ -1,0 +1,58 @@
+[{
+    "patterns": "hi there",
+    "response": "welcome to Notts, where the party bops!!\nHow may I be of service?"
+  },
+  {
+    "patterns": "hello",
+    "response": "welcome to Notts, where the party bops!!\nHow may I be of service?"
+  },
+  {
+    "patterns": "how are you?",
+    "response": "All Good"
+  },
+  {
+    "patterns": "hey",
+    "response": "hey you"
+  },
+  {
+    "patterns": "yo",
+    "response": "wagwan"
+  },
+  {
+    "patterns": "what's up?",
+    "response": "the heavens"
+  },
+  {
+    "patterns": "you good?",
+    "response": "yes, and I hope you are as well.."
+  },
+  {
+    "patterns": "thank you",
+    "response": "anytime"
+  },
+  {
+    "patterns": "thanks",
+    "response": "welcome"
+  },
+  {
+    "patterns": "cheers",
+    "response": "no worries"
+  },
+  {
+    "patterns": "sorry",
+    "response": "haha it's alright!"
+  },
+  {
+    "patterns": "i love you",
+    "response": "aren't you gonna take me to dinner first?"
+  },
+  {
+    "patterns": "how have you been",
+    "response": "very good indeed"
+  },
+  {
+    "patterns": "what is your name",
+    "response": "My name is NottBott, here to answer all your UoN questions"
+  }
+
+]

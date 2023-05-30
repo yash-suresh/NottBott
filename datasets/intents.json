@@ -1,0 +1,129 @@
+[
+
+    {
+      "tag": "best_academic",
+      "patterns": "greatest lecturer professor",
+      "response": "It has to be Monsieur Docteur Jeremie Clos"
+    },
+    {
+      "tag": "best_phd_student",
+      "patterns": "best phd teaching assistant",
+      "response": "It has to be Monsieur Benerradi"
+    },
+    {
+      "tag": "student_service",
+      "patterns": "where student service find uni university ",
+      "response": "Portland Building, in the main Campus"
+    },
+    {
+      "tag": "nott_clubs",
+      "patterns": "nightclubs night out clubs nottingham nightlife going out",
+      "response": "Nottingham has some good clubs: \nPryzm\nInk\nRock City\nUnit 13\n"
+    },
+    {
+      "tag": "nottbott",
+      "patterns": "name your call you",
+      "response": "My name is NottBot, here to answer all your UoN questions!!"
+    },
+    {
+      "tag": "david_ross",
+      "patterns": "sport facility gym football pitch",
+      "response": "We have the mighty David Ross"
+    },
+
+    {
+      "tag": "best_indian_restaurants_notts",
+      "patterns": "best highest rate tasty restaurant eat food indian nottingham takeaway curry india",
+      "response": "I would recommend Maharaja's Retreat"
+    },
+
+    {
+      "tag": "best_chinese_restaurants",
+      "patterns": "best highest rate tasty chinese food takeaway noodles chow mein",
+      "response": "Hot 9, just outside Jubilee Campus, is the one..."
+    },
+
+    {
+      "tag:":  "libray_opening_times",
+      "patterns":"when libary open closed opening hours study spaces hallward green djanogly",
+      "response": "All UoN libaries will be open 24 hours till 31st Jan 2023. Outside exams period, check here for further info:\n https://www.nottingham.ac.uk/library/using/libraries/index.aspx "
+    },
+
+    {
+      "tag:": "hopper_bus" ,
+      "patterns": "catch hopper 903 stop time timings hours frequently days jubilee main campus ",
+      "response": "Hopper buses run Mon-Fri every 15 mins.\nEvery 30 mins on Saturday.\nDo NOT run on Sundays. \nStops at Jubilee at Exchange Bldg. \nDRSV, Portland Bldg and other places in Main Campus. More info on app."
+    },
+
+    {
+      "tag:": "app_not_working" ,
+      "patterns":"mynottingham app broken working ",
+      "response":"Please speak to Student Services. Here's their number: 0 115 748 6500"
+    },
+
+    {
+      "tag:": "exams" ,
+      "patterns": " exams schedule timetable time day location",
+      "response": "Should be on your MyNottingham app"
+    },
+
+    {
+      "tag:": "best_course" ,
+      "patterns": "best greatest course department nottingham",
+      "response": "The answer is obvious: Computer Science!"
+    },
+
+    {
+      "tag:":  "prestige",
+      "patterns":"rank nottingham worldwide uk prestige reputation global qs table league",
+      "response": "We are:\nranked top 15 in UK\nranked top 200 worldwide\nTEF Gold"
+    },
+
+    {
+      "tag:": "societies" ,
+      "patterns":"extracurriculars society activities sports clubs hobbies interests",
+      "response": "We have a range of societies and clubs you can join. Check out UoN SU!"
+    },
+
+    {
+      "tag:":  "parking",
+      "patterns": "parking park car vehicle spot",
+      "response": "we have lots of parking in Main Campus, but not so much in Jubilee."
+    },
+
+    {
+      "tag:": "trams" ,
+      "patterns": "nearest tram tramstop",
+      "response": "If you are in main campus, just behind Trent is the UoN Tram Stop.\nIf in Jubilee, your nearest one is QMC."
+    },
+
+    {
+      "tag:": "health_services",
+      "patterns": "register GP doctor pharmacy dental boots health medical ill poorly sick",
+      "response": "We have our very own surgery, Cripps Health Centre.\nYou can see GP's, nurses, dentists and pharmacists.\n0 115 846 8888"
+    },
+
+    {
+      "tag:": "hospital",
+      "patterns": "emergency accident seriously injured medical ",
+      "response": "Call 999 NOW! We have Queen's Medical Centre across the footbridge from Main Campus. It also the UoN School of Medicine"
+    },
+
+    {
+      "tag": "taxi",
+      "patterns": "call taxi cab ride home",
+      "response": "Call Nottingham Cars @ 01159 700 700"
+
+    },
+
+    {
+      "tag": "name_change",
+      "patterns": "change my name please amend wrong"
+    },
+    {
+      "tag": "weather",
+      "patterns": "weather conditions temperature nottingham outside"
+    }
+
+  ]
+
